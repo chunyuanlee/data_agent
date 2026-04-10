@@ -1,0 +1,20 @@
+# 虚拟环境
+venv/
+.env/
+.env.local
+
+# 编译文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志文件
+*.log
+logs/
+
+.idea
+.cursor
+
+docker/elasticsearch/plugins/elasticsearch-analysis-ik-8.19.10.zip
+
+docker/embedding/bge-large-zh-v1.5
