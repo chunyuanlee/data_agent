@@ -175,7 +175,7 @@ python -m test.load_test --quick
 ```
 
 ## Agent流程图
-![img.png](agent.png)
+![agent](agent.png)
 
 
 
@@ -188,5 +188,5 @@ python -m test.load_test --quick
 
 ## License
 
-本项目采用 [Apache License 2.0](./LICENSE)。
+本项目采用 [MIT License](./LICENSE)。
 
